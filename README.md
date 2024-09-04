@@ -2,13 +2,6 @@
 
 STAT5206 - Fall 2024
 
-## Teaching Team
-Yongchan Kwon (yk3012 (at) columbia (dot) edu)
-  - Office Hours: By appointment. 
-
-<!-- Fangyi Chen (fc2630 (at) columbia (dot) edu)
-  - Office hours: Every Friday 3 pm - 4 pm -->
-
 ## Logistics
 Class time: F 10:10am-12:40pm, Location: 501 Northwest Corner Building
 
@@ -22,8 +15,8 @@ Class time: F 10:10am-12:40pm, Location: 501 Northwest Corner Building
 |Week 4|- N-gram <br>- OLS | | |
 |Week 5|- Pandas (DataFrame, Grouping, Merge, Timestamp) |- [PCN Chapter 12](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) |- HW2 |
 |Week 6|- COVID-19 <br>- (AB testing) |- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|Week 7| **Midterm** |||
-|Week 8|- Visualization (matplotlib, seaborn) <br>- Requests <br>- (Twitter) <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 |
+|Week 7|- Visualization (matplotlib, seaborn) <br>- Requests <br>- (Twitter) <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 |
+|Week 8| **Midterm** (October 25th, evening time) |||
 |Week 9|- Midterm review |||
 |Week 10|- regular expression |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)| |
 |Week 11|- SQL <br>- (Internet speed) |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 |
