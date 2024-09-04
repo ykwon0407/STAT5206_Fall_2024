@@ -67,7 +67,7 @@ This course is designed for beginners who do NOT have any experience in Python p
 ### Grading
 
 #### - Participant (10%)
-- Random Attendance Checks
+- Random Quizzes
 - In-Class Contributions
 - Online Discussion Forums
 
@@ -77,8 +77,8 @@ This course is designed for beginners who do NOT have any experience in Python p
 - Please read these important things related to [submitting homeworks on Ed](https://leewtai.github.io/courses/stat_computing/ed_hw_faq.html)
 
 #### - Exams (60%)
-- Midterms (30%)
-- Final (30%)
+- Midterms (20%)
+- Final (40%)
 
 ##### Exam accomodations
 In order to receive disability-related academic accommodations for this course, students must first be registered with their school Disability Services (DS) office. Detailed information is available online for both the [Columbia](https://health.columbia.edu/content/disability-services) and Barnard registration processes.
